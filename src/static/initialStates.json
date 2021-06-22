@@ -1,0 +1,19 @@
+{
+  "flashCards":{
+    "chapters":[],
+    "prompt":false,
+    "byYourself":true,
+    "range":false,
+    "rangeVal":{
+      "startingChapter":"",
+      "startingVerse":1,
+      "endingChapter":"",
+      "endingVerse":3
+    },
+    "justMemory":false,
+    "referenceToVerse":true,
+    "random":true,
+    "time":5,
+    "type":1
+  }
+}
